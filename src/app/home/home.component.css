@@ -3,6 +3,7 @@
     
   }
   
+  
 .opening-statement {
     margin-top: 30px;
     font-size: 44px; 
@@ -15,7 +16,7 @@
 
   .section1{
     margin: 20px;
-    background-color: pink;
+    background-color: rgb(40, 201, 234);
   }
 
   .section1-container{
@@ -32,7 +33,7 @@
   }
 
   .heading1{
-    color:rgb(161, 113, 113);
+    color:rgb(0, 0, 0);
     text-align: center;
   }
 
@@ -172,7 +173,7 @@
     position: absolute;
     bottom: 10px;
     right: 10px;
-    background-color: rgb(184, 131, 131);
+    background-color: rgb(51, 192, 216);
     color: #fff;
     padding: 5px 10px;
     border: none;
@@ -182,7 +183,7 @@
   }
   
   .cart-button:hover {
-    background-color: rgb(116, 85, 85);
+    background-color: rgb(186, 233, 255);
   }
 
   /* .section4{
